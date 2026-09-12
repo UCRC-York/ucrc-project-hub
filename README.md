@@ -12,16 +12,17 @@ This is a public space where students can:
 
 ## Submit a Project Idea
 
-[Submit a project proposal](https://github.com/UCRC-York/ucrc-project-hub/issues/new/choose) using our project form.
+1. Go to [New Issue](https://github.com/UCRC-York/ucrc-project-hub/issues/new/choose).
+2. Choose **Propose a UCRC Project**.
+3. Complete the form and submit the issue.
 
-You do not need to have a complete plan or advanced experience. Students from all majors and experience levels are welcome to contribute.
+You do not need a complete plan or advanced experience. Students from all majors and experience levels are welcome to contribute.
 
 ## Explore Projects
 
-View the **UCRC Student Project Hub** board to explore proposed projects, find opportunities, and follow projects currently in progress.
+Visit the [UCRC Student Project Hub Board](https://github.com/orgs/UCRC-York/projects/2) to explore project ideas, find collaborators, and follow projects currently in progress.
 
 ## Visit the UCRC
 
 Undergraduate Computing Research Center
 York College, Academic Core 3E07
-
